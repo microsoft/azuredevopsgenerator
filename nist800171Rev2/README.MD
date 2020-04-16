@@ -4,4 +4,4 @@ Organizations struggle with the number of tasks to adopt a cloud technology due 
 
 [Azure DevOps Generator](https://azuredevopsdemogenerator.azurewebsites.net/)
 
-[Github URL](https://raw.githubusercontent.com/microsoft/azuredevopsgenerator/master/nist800171Rev2/NIST800171Rev2.zip)
+[NIST 800-171 Template Github URL](https://raw.githubusercontent.com/microsoft/azuredevopsgenerator/master/nist800171Rev2/NIST800171Rev2.zip)
