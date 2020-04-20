@@ -1,26 +1,31 @@
 # Azure DevOps Generator
 
-Organizations struggle with the number of tasks to adopt a cloud technology due the lack of an agile methodology to plan, execute,  validate its initial success and deploy into production.
-Adopting a cloud native SIEM
 
-The objective is helping customers to quickly deploy Azure Sentinel following the best practices using  Azure DevOps board with agile practices.
+## About
 
-**TODO**Requirements:
+Organizations struggle with the number of tasks to adopt a cloud technology due to the lack of an agile methodology to plan, execute, and validate its initial success and deploy into production.
 
-1. Create or use an existing Azure DevOps organization
-2. [Access to Azure Sentinel DevOps Template](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fazure%2Fdevops%2Forganizations%2Faccounts%2Fcreate-organization%3Fview%3Dazure-devops&data=02%7C01%7Ccrmuno%40microsoft.com%7Cd340cee195414944089708d7e20b9512%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637226411708890912&sdata=sUZ77jIq42KnMWF8%2BCTtEyaoGDDQ1xk9OE1HJGitlaI%3D&reserved=0)
-3. [Access to Azure DevOps Generator](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fazure%2Fdevops%2Fdemo-gen%2Fuse-demo-generator-v2%3Fview%3Dazure-devops&data=02%7C01%7Ccrmuno%40microsoft.com%7Cd340cee195414944089708d7e20b9512%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637226411708900870&sdata=0XTp%2BCwHnScmiiNJly0pv%2ByyFsmU8h6RjXb2V4pdO%2B8%3D&reserved=0)
+The purpose of this iniaitive is to simplify the process for organizations by providing DevOps templates for various cloud technologies; you can then use the Azure DevOps Demo Generator to import these into your own DevOps project. The templates include specific Work Items with actionable steps to implement the aforementioned cloud technologies. 
+
+## Getting Started
+### Pre-requisites:
 
 
-Steps:
+ [Create a DevOps Organizaton](https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/create-organization?view=azure-devops#create-an-organization) or use an existing one. 
 
-1. Sign in to Azure DevOps Generator
+Process:
 
-2.	Create a new project, ex: “Azure Sentinel POC” then select your organization “.
-3. Click “Choose template”, select Github. Past the raw url: https://raw.githubusercontent.com/microsoft/azuredevopsgenerator/master/azuresentinel/AzureSentinel.zip
- 
-4. Click “Submit” then “Create Project”
-5. An Azure DevOps project will be created in your organization
- 
-6. Click on “Backlogs”, you should be able to see “Features” and “User Stories” providing guidance.
-This should help your team to discuss, agree on acceptance criteria,  delegate ownership, create iterations, track the progress and efficiently deploy Azure Sentinel. 
+1. Navigate to the [Azure DevOps Demo Generator](https://azuredevopsdemogenerator.azurewebsites.net/Account/Verify) and sign into your DevOps organization.
+2. Fill in **Project Name**, select your Organization, and select **Choose Template**.
+3. Select **Private** and either upload the appropriate Zip file or link to the raw Github link provided in each folder of this repo. 
+4. Select **Create Project** on the main page. 
+
+## Helpful Links
+[Step-by-step instructions on how to get started with the Azure DevOps Demo Generator](https://github.com/microsoft/AzureDevOpsDemoGenerator/blob/master/docs/Using-The-Generator.md)
+
+## Contributions
+
+This project welcomes contributions and suggestions. Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit https://cla.microsoft.com.
+
+This project has adopted the Microsoft Open Source Code of Conduct. For more information see the Code of Conduct FAQ or contact opencode@microsoft.com with any additional questions or comments.
+For more information on contributing, please visit the contributor guide.
