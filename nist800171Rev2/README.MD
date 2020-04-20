@@ -4,7 +4,7 @@
 
 Implementing NIST 800-171 compliance across your Azure environments mainly involves a set of customer responsibilities as well as actions taken by the cloud provider. Please refer to the included **Customer Responsibility Matrix** for greater detail on those responsibilities. 
 
-By importing the NIST 800-171 DevOps template, you will be able to complete actionable Work Items that correspond to customer responsibiities to in order to implement compliance. 
+By importing the NIST 800-171 DevOps template, you will be able to complete actionable Work Items that correspond to customer responsibiities in order to implement compliance. 
 
 ## Getting Started
 
