@@ -10,6 +10,7 @@ TODORequirements:
 Create or use an existing Azure DevOps organization
 Access to Azure Sentinel DevOps Template
 Access to [Azure DevOps Generator](https://azuredevopsdemogenerator.azurewebsites.net/)
+
 Steps:
 
 Sign in to Azure DevOps Generator
