@@ -7,8 +7,8 @@ The objective is helping customers to quickly deploy Azure Sentinel following th
 
 TODORequirements:
 
-Create or use an existing Azure DevOps organization
-Access to Azure Sentinel DevOps Template
+Create or use an existing Azure DevOps organization /n
+Access to Azure Sentinel DevOps Template /n
 Access to [Azure DevOps Generator](https://azuredevopsdemogenerator.azurewebsites.net/)
 
 Steps:
