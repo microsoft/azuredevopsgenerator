@@ -9,7 +9,7 @@ By importing the NIST 800-171 DevOps template, you will be able to complete acti
 ## Getting Started
 
 Pre-requisites:
-Create a DevOps Organizaton or use an existing one.
+[Create a DevOps Organizaton](https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/create-organization?view=azure-devops#create-an-organization) or use an existing one.
 
 Process:
 
