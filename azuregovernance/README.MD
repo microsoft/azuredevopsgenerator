@@ -13,16 +13,16 @@ The objective is helping customers to quickly deploy Azure Governance following 
 ### Pre-requisites: 
 
 1. Create a [DevOps Organization](https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/create-organization?view=azure-devops#create-an-organization) or use an existing one.
-2. [Access to Azure DevOps Generator](https://docs.microsoft.com/en-us/azure/devops/demo-gen/use-demo-generator-v2?view=azure-devops)
+
 
 ### Steps
 
-1. Navigate to the Azure DevOps Generator and sign into your DevOps organization.
-2. Create a new project, ex: “Azure Governance POC” then select your organization “.
-3. Click “Choose template”, select Github. Paste the raw url: [https://github.com/ricmmartins/azuredevopsgenerator/blob/master/azuregovernance/AzureGovernance.zip?raw=true](https://github.com/ricmmartins/azuredevopsgenerator/blob/master/azuregovernance/AzureGovernance.zip?raw=true)
-4. Click “Submit” then “Create Project”
+1. Navigate to the [Azure DevOps Generator](https://docs.microsoft.com/en-us/azure/devops/demo-gen/use-demo-generator-v2?view=azure-devops) and sign into your DevOps organization.
+2. Fill in **Project Name** and select your Organization.
+3. Click **Choose template**, select **Private** then choose **GitHub** and paste this raw url: [https://raw.githubusercontent.com/ricmmartins/azuredevopsgenerator/master/azuregovernance/AzureGovernance.zip](https://raw.githubusercontent.com/ricmmartins/azuredevopsgenerator/master/azuregovernance/AzureGovernance.zip)
+4. Click **Submit** then **Create Project**
 5. An Azure DevOps project will be created in your organization
-6. Click on “Backlogs”, you should be able to see “User Stories and “Tasks” providing guidance.
+6. In your organization, navigate to the project then click on **Backlogs**, you should be able to see **User Stories** and **Tasks** providing guidance.
 This should help your team to discuss, agree on acceptance criteria, delegate ownership, create iterations, track the progress and efficiently deploy Azure Governance. 
 
 
