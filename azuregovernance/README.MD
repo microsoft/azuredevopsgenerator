@@ -18,7 +18,7 @@ Steps:
 1. Sign in to Azure DevOps Generator
 
 2.	Create a new project, ex: “Azure Sentinel POC” then select your organization “.
-3. Click “Choose template”, select Github. Past the raw url: https://raw.githubusercontent.com/microsoft/azuredevopsgenerator/master/azuregovernance/AzureGovernance.zip
+3. Click “Choose template”, select Github. [Past the raw url](azuregovernance/AzureGovernance.zip)
  
 4. Click “Submit” then “Create Project”
 5. An Azure DevOps project will be created in your organization
