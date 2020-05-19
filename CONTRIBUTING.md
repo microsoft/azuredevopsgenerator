@@ -18,13 +18,9 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 
 Once you successfully generate and test your template, you can share it with community. This can be done in three ways.
 
-1. Create a pull request to [Azure DevOps Demo Generator](https://github.com/microsoft/AzureDevOpsDemoGenerator/)
-1. Place the template zip file in any public repository and share the link in [Email](mailto:AzureDevOpsDemoGenerator@service.microsoft.com)
-1. Share the template directly through email
+1. Create a pull request to [Azure DevOps Demo Generator](https://github.com/microsoft/azuredevopsgenerator)
 
-> Note: If you have extensions installed in your organization, tempalte would be generated along with reference to all installed extensions in the ```Extensions.json``` file. You can edit this file and keep only the required extensions for the project. If extensions are not required, keep the file empty.
-
-## Your template must contain following elements
+## Your template must contain the following elements
 
 We will communicate via Email once the template validated successfully.
 
@@ -40,7 +36,7 @@ Your comments and feedback are welcome, and the project team is available via ha
 
 ## Reporting Issues
 
-Have you identified a reproducible problem in a workshop? Have a feature request? We want to hear about it! Here's how you can make reporting your issue as effective as possible.
+To report an issue, select "New Issue" under the [Issues tab] (https://github.com/microsoft/azuredevopsgenerator/issues).
 
 ### Look For an Existing Issue
 
