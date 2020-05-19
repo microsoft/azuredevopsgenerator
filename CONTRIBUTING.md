@@ -16,9 +16,9 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 
 # Contributing Templates
 
-Once you successfully generate and test your template, you can share it with community. This can be done in three ways.
+Once you successfully generate and test your template, you can share it with community:
 
-1. Create a pull request to [Azure DevOps Demo Generator](https://github.com/microsoft/azuredevopsgenerator)
+Create a pull request to [Azure DevOps Demo Generator](https://github.com/microsoft/azuredevopsgenerator)
 
 ## Your template must contain the following elements
 
