@@ -6,6 +6,10 @@ We welcome participation in a variety of ways, including providing and commentin
 
 ## About this project
 
+Organizations struggle with the number of tasks to adopt a cloud technology due to the lack of an agile methodology to plan, execute, and validate its initial success and deploy into production.
+
+The purpose of this iniaitive is to simplify the process for organizations by providing DevOps templates for various cloud technologies; you can then use the Azure DevOps Demo Generator to import these into your own DevOps project. The templates include specific Work Items with actionable steps to implement the aforementioned cloud technologies.
+
 ## Contribution Guidelines
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit https://cla.microsoft.com.
@@ -16,13 +20,13 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 
 # Contributing Templates
 
-Once you successfully generate and test your template, you can share it with community:
+Once you successfully generate and test your template, you can share it with the community:
 
 Create a pull request to [Azure DevOps Demo Generator](https://github.com/microsoft/azuredevopsgenerator)
 
 ## Your template must contain the following elements
 
-We will communicate via Email once the template validated successfully.
+We will communicate via email once the template is validated successfully.
 
 ## Asking Questions
 
