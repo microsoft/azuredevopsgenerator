@@ -1,31 +1,32 @@
-# Azure DevOps Generator
-
+# Azure Governance DevOps Generator
 
 ## About
 
-Organizations struggle with the number of tasks to adopt a cloud technology due to the lack of an agile methodology to plan, execute, and validate its initial success and deploy into production.
+The cloud creates new paradigms for the technologies that support the business. These new paradigms also change how those technologies are adopted, managed, and governed. When entire datacenters can be virtually torn down and rebuilt with one line of code executed by an unattended process, we have to rethink traditional approaches. This is especially true for governance.
 
-The purpose of this iniaitive is to simplify the process for organizations by providing DevOps templates for various cloud technologies; you can then use the Azure DevOps Demo Generator to import these into your own DevOps project. The templates include specific Work Items with actionable steps to implement the aforementioned cloud technologies. 
+Cloud governance is an iterative process. For organizations with existing policies that govern on-premises IT environments, cloud governance should complement those policies. However, the level of corporate policy integration between on-premises and the cloud varies depending on cloud governance maturity and a digital estate in the cloud. As the cloud estate changes over time, so do cloud governance processes and policies. The following exercises help you understand how start building your initial governance foundation.
+
+The objective is helping customers to quickly deploy Azure Governance following the best practices using  Azure DevOps board with agile practices.
 
 ## Getting Started
-### Pre-requisites:
+
+### Pre-requisites: 
+
+1. Create a [DevOps Organization](https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/create-organization?view=azure-devops#create-an-organization) or use an existing one.
 
 
- [Create a DevOps Organizaton](https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/create-organization?view=azure-devops#create-an-organization) or use an existing one. 
+### Steps
 
-Process:
+1. Navigate to the [Azure DevOps Generator](https://docs.microsoft.com/en-us/azure/devops/demo-gen/use-demo-generator-v2?view=azure-devops) and sign into your DevOps organization.
+2. Fill in **Project Name** and select your Organization.
+3. Click **Choose template**, select **Private** then choose **GitHub** and paste this raw url: [https://raw.githubusercontent.com/microsoft/azuredevopsgenerator/master/azuregovernance/AzureGovernance.zip](https://raw.githubusercontent.com/microsoft/azuredevopsgenerator/master/azuregovernance/AzureGovernance.zip)
+4. Click **Submit** then **Create Project**.
+5. An Azure DevOps project will be created in your organization.
+6. In your organization, navigate to the project then click on **Backlogs**, you should be able to see **User Stories** and **Tasks** providing guidance:
 
-1. Navigate to the [Azure DevOps Demo Generator](https://azuredevopsdemogenerator.azurewebsites.net/Account/Verify) and sign into your DevOps organization.
-2. Fill in **Project Name**, select your Organization, and select **Choose Template**.
-3. Select **Private** and either upload the appropriate Zip file or link to the raw Github link provided in each folder of this repo. 
-4. Select **Create Project** on the main page. 
+<img src=../azuregovernance/pictures/governance.png>
 
-## Helpful Links
-[Step-by-step instructions on how to get started with the Azure DevOps Demo Generator](https://github.com/microsoft/AzureDevOpsDemoGenerator/blob/master/docs/Using-The-Generator.md)
+This should help your team to discuss, agree on acceptance criteria, delegate ownership, create iterations, track the progress and efficiently deploy Azure Governance.
 
-## Contributions
 
-This project welcomes contributions and suggestions. Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit https://cla.microsoft.com.
 
-This project has adopted the Microsoft Open Source Code of Conduct. For more information see the Code of Conduct FAQ or contact opencode@microsoft.com with any additional questions or comments.
-For more information on contributing, please visit the contributor guide.
