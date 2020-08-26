@@ -22,7 +22,7 @@ The objective is helping customers to quickly deploy Azure Governance following 
 3. Click **Choose template**, select **Private** then choose **GitHub** and paste this raw url: [https://raw.githubusercontent.com/microsoft/azuredevopsgenerator/master/azuregovernance/AzureGovernance.zip](https://raw.githubusercontent.com/microsoft/azuredevopsgenerator/master/azuregovernance/AzureGovernance.zip)
 4. Click **Submit** then **Create Project**.
 5. An Azure DevOps project will be created in your organization.
-6. In your organization, navigate to the project then click on **Backlogs**, you should be able to see **User Stories** and **Tasks** providing guidance:
+6. In your organization, navigate to the project then click to **Boards**, then on **Backlogs**, you should be able to see **User Stories** and **Tasks** providing guidance on Governance. Bellow is a image with the recommended order to follow:
 
 <img src=../azuregovernance/pictures/governance.png>
 
