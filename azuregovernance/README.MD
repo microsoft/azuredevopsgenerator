@@ -28,6 +28,10 @@ The objective is helping customers to quickly deploy Azure Governance following 
 
 This should help your team to discuss, agree on acceptance criteria, delegate ownership, create iterations, track the progress and efficiently deploy Azure Governance.
 
+## Additional information
+
+If you want just a list with all Governance related links, take a loot at [http://aka.ms/azgovernancereadiness](http://aka.ms/azgovernancereadiness)
+
 
 
 
