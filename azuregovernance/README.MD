@@ -36,7 +36,7 @@ This should help your team to discuss, agree on acceptance criteria, delegate ow
 
 ## Additional information
 
-If you want just a list with all Governance related links, take a loot at [http://aka.ms/azgovernancereadiness](http://aka.ms/azgovernancereadiness)
+If you want just a list with all Governance related links, take a loot at [http://aka.ms/azgovernancelinks](http://aka.ms/azgovernancelinks)
 
 
 
