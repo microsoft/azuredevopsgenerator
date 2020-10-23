@@ -26,6 +26,7 @@ The objective is helping customers to quickly deploy Azure Governance following 
 <img src=../azuregovernance/pictures/createproject.png>
 
 4. An Azure DevOps project will be created in your organization.
+
 5. In your organization, navigate to the project then click to **Boards**, then on **Backlogs**, you should be able to see **User Stories** and **Tasks** providing guidance on Governance. Bellow is a image with the recommended order to follow:
 
 <img src=../azuregovernance/pictures/governance.png>
