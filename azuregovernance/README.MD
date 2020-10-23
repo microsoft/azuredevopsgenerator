@@ -17,15 +17,15 @@ The objective is helping customers to quickly deploy Azure Governance following 
 
 ### Steps
 
-1. Go to [http://aka.ms/governance/generator](http://aka.ms/governance/generator), sign into your DevOps organization and you already will be in the correct template selection for Governance; (Please note that if you click on **Choose template**, this template is available under **Azure Community**)
+1. Go to [http://aka.ms/governance/generator](http://aka.ms/governance/generator), sign into your DevOps organization and you already will be in the correct template selection for Governance (please note that if you click on **Choose template**, this template is available under **Azure Community**);
 
-2. Fill in **Project Name** and select your Organization.
+2. Fill in **Project Name** and select your Organization;
 
-3. Click to **Create Project**.
+3. Click to **Create Project**;
 
 <img src=../azuregovernance/pictures/createproject.png>
 
-4. An Azure DevOps project will be created in your organization.
+4. An Azure DevOps project will be created in your organization;
 5. In your organization, navigate to the project then click to **Boards**, then on **Backlogs**, you should be able to see **User Stories** and **Tasks** providing guidance on Governance. Bellow is a image with the recommended order to follow:
 
 <img src=../azuregovernance/pictures/governance.png>
