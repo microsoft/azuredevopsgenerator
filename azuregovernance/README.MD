@@ -24,6 +24,7 @@ The objective is helping customers to quickly deploy Azure Governance following 
 <img src=../azuregovernance/pictures/azcommunity.png>
 (Or you can go to directly to [http://aka.ms/governance/generator](http://aka.ms/governance/generator))
 
+
 4. Click to **Create Project**.
 
 <img src=../azuregovernance/pictures/createproject.png>
