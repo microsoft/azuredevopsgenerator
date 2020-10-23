@@ -20,7 +20,7 @@ The objective is helping customers to quickly deploy Azure Governance following 
 1. Navigate to the [Azure DevOps Generator](https://docs.microsoft.com/en-us/azure/devops/demo-gen/use-demo-generator-v2?view=azure-devops) and sign into your DevOps organization.
 2. Fill in **Project Name** and select your Organization.
 3. Click **Choose template**, select **Azure Community** then choose **Azure Governance Readiness** and click "Select Template":
-<br>(Or you can go to directly to [http://aka.ms/governance/generator](http://aka.ms/governance/generator) and Sign-in and you already will be in the selection of the correct Governance template)</br>
+<br>(Or you can go to directly to [http://aka.ms/governance/generator](http://aka.ms/governance/generator) > Sign-in and you already will be in the selection of the correct Governance template)</br>
 
 <img src=../azuregovernance/pictures/azcommunity.png>
 
