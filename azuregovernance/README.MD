@@ -39,7 +39,7 @@ If you want just a list with all Governance related links, take a loot at [http:
 
 There are some additional documents that will be useful on your Governance learning and implementation. You can find below:
 
-* [CAF - Azure Account Organization and Governance](https://github.com/microsoft/azuredevopsgenerator/blob/master/azuregovernance/docs/CAF-Azure_Account_Organization_and_Governance.pptx)
+* [CAF - Azure Account Organization and Governance](docs/CAF-Azure_Account_Organization_and_Governance.pptx)
 * [CAF - Cloud Adoption Framework Overview](https://github.com/microsoft/azuredevopsgenerator/blob/master/azuregovernance/docs/CAF-Cloud_Adoption_Framework_Overview.pptx)
 * [Cloud Adoption Framework One PAger](https://github.com/microsoft/azuredevopsgenerator/blob/master/azuregovernance/docs/Cloud_Adoption_Framework_One_Pager.pdf)
 * [CAF - Governance Playbook V2](https://github.com/microsoft/azuredevopsgenerator/blob/master/azuregovernance/docs/CAF_Governance_Playbook%20V2.docx)
