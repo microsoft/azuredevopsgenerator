@@ -1,0 +1,19 @@
+﻿# ------------------- CLI --------------------------------
+# CLI Deploy resource group with tags
+
+# Login
+az login
+az login --tenant 'The value of this argument can either be an .onmicrosoft.com domain or the Azure object ID for the tenant'
+
+# TODO: Set Variables...
+$resourceGroup = 'rgCliRgTemplate'
+$resoureGroupLocation = 'eastus'
+
+# Create RG and tags...
+az group create --name $resourceGroup --location $resoureGroupLocation
+
+# TODO: Fill in tag values...
+az group update -n $resourceGroup --tags 'ApplicationName=Application Name' 'Approver=Email' 'BudgetAmount=$' 'BusinessUnit=FINANCE, MARKETING, Product Name, CORP, SHARED' 'CostCenter=Number' 'DR=Mission-critical, Critical, Essential' 'EndDate=Date' 'Env=Prod, Dev, QA, Stage, Test' 'Owner=Email' 'Requestor=Email' 'ServiceClass=Dev, Bronze, Silver, Gold' 'StartDate=Date'
+
+# Create and set lock (optional)...
+az group lock create --lock-type CanNotDelete -n DoNotDelete -g $resourceGroup
