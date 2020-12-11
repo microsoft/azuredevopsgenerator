@@ -40,14 +40,14 @@ If you want just a list with all Governance related links, take a loot at [http:
 There are some additional documents that will be useful on your Governance learning and implementation. You can find below:
 
 * [CAF - Azure Account Organization and Governance](docs/CAF-Azure_Account_Organization_and_Governance.pptx)
-* [CAF - Cloud Adoption Framework Overview](https://github.com/microsoft/azuredevopsgenerator/blob/master/azuregovernance/docs/CAF-Cloud_Adoption_Framework_Overview.pptx)
-* [Cloud Adoption Framework One PAger](https://github.com/microsoft/azuredevopsgenerator/blob/master/azuregovernance/docs/Cloud_Adoption_Framework_One_Pager.pdf)
-* [CAF - Governance Playbook V2](https://github.com/microsoft/azuredevopsgenerator/blob/master/azuregovernance/docs/CAF_Governance_Playbook%20V2.docx)
-* [Enterprise  Scale Architecture](https://github.com/microsoft/azuredevopsgenerator/blob/master/azuregovernance/docs/Enterprise-Scale-Architecture.vsdx)
-* [Azure Cloud Architecture Shared Business Unit Model Sample V1](https://github.com/microsoft/azuredevopsgenerator/blob/master/azuregovernance/docs/Azure_Cloud_Architecture-Shared-BusinessUnit-Model-Sample_V1.vsdx)
-* [Azure Networking Cloud Architecture Sample V1](https://github.com/microsoft/azuredevopsgenerator/blob/master/azuregovernance/docs/Azure_Networking_Cloud_Architecture_Sample_v1.vsdx)
-* [Azure Management Subscription Architecture Sample V1](https://github.com/microsoft/azuredevopsgenerator/blob/master/azuregovernance/docs/Azure_Management-Subscription-Architecture-Sample-v1.vsdx)
-* [Goernance Imlementation Matrix V1](https://github.com/microsoft/azuredevopsgenerator/blob/master/azuregovernance/docs/Governance_Implementation_Matrix_v1.xlsx)
+* [CAF - Cloud Adoption Framework Overview](docs/CAF-Cloud_Adoption_Framework_Overview.pptx)
+* [Cloud Adoption Framework One PAger](docs/Cloud_Adoption_Framework_One_Pager.pdf)
+* [CAF - Governance Playbook V2](docs/CAF_Governance_Playbook%20V2.docx)
+* [Enterprise  Scale Architecture](docs/Enterprise-Scale-Architecture.vsdx)
+* [Azure Cloud Architecture Shared Business Unit Model Sample V1](docs/Azure_Cloud_Architecture-Shared-BusinessUnit-Model-Sample_V1.vsdx)
+* [Azure Networking Cloud Architecture Sample V1](docs/Azure_Networking_Cloud_Architecture_Sample_v1.vsdx)
+* [Azure Management Subscription Architecture Sample V1](docs/Azure_Management-Subscription-Architecture-Sample-v1.vsdx)
+* [Goernance Imlementation Matrix V1](docs/Governance_Implementation_Matrix_v1.xlsx)
 
 
 
