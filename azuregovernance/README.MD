@@ -17,7 +17,7 @@ The objective is helping customers to quickly deploy Azure Governance following 
 
 ### Steps
 
-1. Go to [http://aka.ms/governance/generator](http://aka.ms/governance/generator), sign into your DevOps organization and you already will be in the correct template selection for Governance. (Please note that if you click on **Choose template**, this template is available under **Azure Community**);
+1. Go to [http://aka.ms/governance/generator](http://aka.ms/governance/generator), sign into your DevOps organization and you already will be in the correct template selection for Governance. (Please note that if you click on **Choose template**, this template is available under **Cloud Adoption Framework**);
 
 2. Fill in **Project Name** and select your Organization.
 
