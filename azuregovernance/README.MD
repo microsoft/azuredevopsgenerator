@@ -35,7 +35,7 @@ This should help your team to discuss, agree on acceptance criteria, delegate ow
 
 ## Microsoft Cloud Adoption Framework (CAF)
 
-<img align="left" height="80" src="img/caf.png"> Listed as tool for the Govern discipline in the Microsoft Cloud Adoption Framework!  
+<img align="left" height="80" src="pictures/caf.png"> Listed as tool for the Govern discipline in the Microsoft Cloud Adoption Framework!  
 https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/reference/tools-templates#govern
 
 Included in the Microsoft Cloud Adoption Framework´s [Strategy-Plan-Ready-Gov](https://azuredevopsdemogenerator.azurewebsites.net/?name=strategyplan) Azure DevOps Demo Generator template.
