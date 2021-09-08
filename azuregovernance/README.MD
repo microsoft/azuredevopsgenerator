@@ -33,6 +33,13 @@ The objective is helping customers to quickly deploy Azure Governance following 
 
 This should help your team to discuss, agree on acceptance criteria, delegate ownership, create iterations, track the progress and efficiently deploy Azure Governance.
 
+## Microsoft Cloud Adoption Framework (CAF)
+
+<img align="left" height="80" src="img/caf.png"> Listed as tool for the Govern discipline in the Microsoft Cloud Adoption Framework!  
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/reference/tools-templates#govern
+
+Included in the Microsoft Cloud Adoption Framework´s [Strategy-Plan-Ready-Gov](https://azuredevopsdemogenerator.azurewebsites.net/?name=strategyplan) Azure DevOps Demo Generator template.
+
 ## Additional information
 
 If you want just a list with all Governance related links, take a loot at [http://aka.ms/azgovernancelinks](http://aka.ms/azgovernancelinks)
