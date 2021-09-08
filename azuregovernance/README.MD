@@ -39,6 +39,7 @@ This should help your team to discuss, agree on acceptance criteria, delegate ow
 
 [Using the Strategy-Plan-Ready-Govern Azure DevOps template](https://azuredevopsdemogenerator.azurewebsites.net/?name=strategyplan)
 
+
 ## Additional information
 
 If you want just a list with all Governance related links, take a loot at [http://aka.ms/azgovernancelinks](http://aka.ms/azgovernancelinks)
